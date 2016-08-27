@@ -1,1 +1,3 @@
-# DataStrcturesAndAlgorithms
+# Data Strctures And Algorithms
+
+This repository contains implementations of common data structures and algorithms for practice purposes.
